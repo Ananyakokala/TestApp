@@ -1,0 +1,302 @@
+{
+    "courses": [
+      {
+        "name": "Vedic Maths",
+        "image": "image.jpg",
+        "type": "offline",
+        "restricted": false,
+        "deleted": false,
+        "id": 1,
+        "chapters": [
+          {
+            "id": 2,
+            "name": "Introduction to squares",
+            "dec": "something resembling a specified unit",
+            "img": "https://s29843.pcdn.co/blog/wp-content/uploads/sites/2/2019/06/YouTube-Thumbnail-Sizes.png",
+            "topics": [
+              {
+                "id": 3,
+                "type": "video",
+                "video": "https://www.youtube.com/watch?v=BO3AXdHMjkY",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf"
+              },
+              {
+                "id": 5,
+                "type": "live",
+                "video": "youtube.com/aaa",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf",
+                "instructions": "Join using the below link",
+                "join_link": "http://..."
+              },
+              {
+                "id": 4,
+                "type": "quiz",
+                "video": "youtube.com/aaa",
+                "description": "This quiz is about...",
+                "additional_notes": "notes.pdf",
+                "pass_points": 10,
+                "distinction_points": 15,
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "What is the square of 25",
+                    "correct_choice": 1,
+                    "points": 1,
+                    "choices": [
+                      {
+                        "id": 1,
+                        "text_choice": "25",
+                        "image_choice": "choice1.jpg"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Introduction to squares",
+            "dec": "something resembling a specified unit",
+            "img": "https://cdn.hipwallpaper.com/i/8/26/tvmqd5.png",
+            "topics": [
+              {
+                "id": 3,
+                "type": "video",
+                "video": "https://www.youtube.com/watch?v=BO3AXdHMjkY",
+                "description": "This course is about Vedic Maths",
+                "additional_notes": "notes.pdf"
+              },
+              {
+                "id": 5,
+                "type": "live",
+                "video": "https://www.youtube.com/watch?v=ysz5S6PUM-U",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf",
+                "instructions": "Join using the below link",
+                "join_link": "http://..."
+              },
+              {
+                "id": 4,
+                "type": "quiz",
+                "video": "youtube.com/aaa",
+                "description": "This quiz is about...",
+                "additional_notes": "notes.pdf",
+                "pass_points": 10,
+                "distinction_points": 15,
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "What is the square of 25",
+                    "correct_choice": 1,
+                    "points": 1,
+                    "choices": [
+                      {
+                        "id": 1,
+                        "text_choice": "25",
+                        "image_choice": "choice1.jpg"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Introduction to squares",
+            "dec": "something resembling a specified unit",
+            "img": "data:image/jpeg;base64,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",
+            "topics": [
+              {
+                "id": 3,
+                "type": "video",
+                "video": "youtube.com/aaa",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf"
+              },
+              {
+                "id": 5,
+                "type": "live",
+                "video": "youtube.com/aaa",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf",
+                "instructions": "Join using the below link",
+                "join_link": "http://..."
+              },
+              {
+                "id": 4,
+                "type": "quiz",
+                "video": "youtube.com/aaa",
+                "description": "This quiz is about...",
+                "additional_notes": "notes.pdf",
+                "pass_points": 10,
+                "distinction_points": 15,
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "What is the square of 25",
+                    "correct_choice": 1,
+                    "points": 1,
+                    "choices": [
+                      {
+                        "id": 1,
+                        "text_choice": "25",
+                        "image_choice": "choice1.jpg"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Introduction to squares",
+            "dec": "something resembling a specified unit",
+            "img": "https://images.squarespace-cdn.com/content/v1/59692f76d1758e8980e8bb2a/1593141302678-EBTNWEANZKBF68QD3001/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p52bY8kZn6Mpkp9xtPUVLhvLurswpbKwwoDWqBh58NLxQZMhB36LmtxTXHHtLwR3w/May+17+Youtube+Thumbnail.png",
+            "topics": [
+              {
+                "id": 3,
+                "type": "video",
+                "video": "youtube.com/aaa",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf"
+              },
+              {
+                "id": 5,
+                "type": "live",
+                "video": "youtube.com/aaa",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf",
+                "instructions": "Join using the below link",
+                "join_link": "http://..."
+              },
+              {
+                "id": 4,
+                "type": "quiz",
+                "video": "youtube.com/aaa",
+                "description": "This quiz is about...",
+                "additional_notes": "notes.pdf",
+                "pass_points": 10,
+                "distinction_points": 15,
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "What is the square of 25",
+                    "correct_choice": 1,
+                    "points": 1,
+                    "choices": [
+                      {
+                        "id": 1,
+                        "text_choice": "25",
+                        "image_choice": "choice1.jpg"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Introduction to squares",
+            "dec": "something resembling a specified unit",
+            "img": "https://s29843.pcdn.co/blog/wp-content/uploads/sites/2/2019/06/YouTube-Thumbnail-Sizes.png",
+            "topics": [
+              {
+                "id": 3,
+                "type": "video",
+                "video": "youtube.com/aaa",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf"
+              },
+              {
+                "id": 5,
+                "type": "live",
+                "video": "youtube.com/aaa",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf",
+                "instructions": "Join using the below link",
+                "join_link": "http://..."
+              },
+              {
+                "id": 4,
+                "type": "quiz",
+                "video": "youtube.com/aaa",
+                "description": "This quiz is about...",
+                "additional_notes": "notes.pdf",
+                "pass_points": 10,
+                "distinction_points": 15,
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "What is the square of 25",
+                    "correct_choice": 1,
+                    "points": 1,
+                    "choices": [
+                      {
+                        "id": 1,
+                        "text_choice": "25",
+                        "image_choice": "choice1.jpg"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Introduction to squares",
+            "dec": "something resembling a specified unit",
+            "img": "https://s29843.pcdn.co/blog/wp-content/uploads/sites/2/2019/06/YouTube-Thumbnail-Sizes.png",
+            "topics": [
+              {
+                "id": 3,
+                "type": "video",
+                "video": "youtube.com/aaa",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf"
+              },
+              {
+                "id": 5,
+                "type": "live",
+                "video": "youtube.com/aaa",
+                "description": "This course is about...",
+                "additional_notes": "notes.pdf",
+                "instructions": "Join using the below link",
+                "join_link": "http://..."
+              },
+              {
+                "id": 4,
+                "type": "quiz",
+                "video": "youtube.com/aaa",
+                "description": "This quiz is about...",
+                "additional_notes": "notes.pdf",
+                "pass_points": 10,
+                "distinction_points": 15,
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "What is the square of 25",
+                    "correct_choice": 1,
+                    "points": 1,
+                    "choices": [
+                      {
+                        "id": 1,
+                        "text_choice": "25",
+                        "image_choice": "choice1.jpg"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

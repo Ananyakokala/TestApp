@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 
-const { tablue } = window
+// const { tablue } = window
 
 function TablueList() {
 

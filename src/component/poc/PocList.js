@@ -61,7 +61,7 @@ class PocList extends Component {
                                     <div>
                                         <img style={{ height: 150, width: 230, borderRadius: 20, overflow: "scroll" }}
                                             src={chap.img}
-                                            onClick={() => this.navigateToGridView(chap)} />
+                                            onClick={() => this.navigateToGridView(chap)}  alt = ''/>
                                         <p1 style={{ fontSize: 13, fontWeight: 'bold' }}>
                                             {chap.name}
                                         </p1> <br />

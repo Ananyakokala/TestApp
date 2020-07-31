@@ -5,10 +5,7 @@ import { bindActionCreators } from "redux"
 import { connect } from "react-redux"
 
 class App extends Component {
-  // const count = useSelector(state => state.counter)
-  // const dispatch = useDispatch();
-
-
+ 
   componentWillMount() {
     this.getItems()
 }

@@ -7,7 +7,7 @@ class ButtonReuse extends Component {
         return (
             <div>
                 <button style={{ borderRadius: 20, borderWidth: 0,padding: 8,outline:0, background: "#3ACEAC",marginLeft:50}} className="my-button">
-                    <img style={{ height: 20, width: 20 }} src={this.props.imgSrc} />
+                    <img style={{ height: 20, width: 20 }} src={this.props.imgSrc} alt = ''/>
                     {this.props.buttonText}
                 </button>
             </div>
